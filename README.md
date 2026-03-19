@@ -1,4 +1,4 @@
-# Desafio de Estágio — CD&IA em Saúde Pública
+# Desafio — CD&IA em Saúde Pública
 
 Solução do desafio técnico para a vaga de estágio em **Ciência de Dados & Inteligência Artificial** no **Núcleo de Sistemas Eletrônicos Embarcados (NSEE) — Instituto Mauá de Tecnologia**.
 
